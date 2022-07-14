@@ -5,7 +5,7 @@
 1. **email** - s1zeist@gmail.com
 2. **skype** - s1zeist
 3. **discord** - AidenRoot (@s1zeist)
-4. [https://github.com/s1zeist] (GitHub)
+4. **GitHub** - https://github.com/s1zeist
 
 ###  Network and Computer System Administrator  - experience 5 years
 ###  Site Administrator + Search Engine Optimizator - 5 years 
