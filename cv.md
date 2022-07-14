@@ -1,6 +1,6 @@
 # Varyukhov Sergey
 
-![avatar](/avatar.jpg "Avatarka")
+![avatar](/avatar.jpg)
 
 1. email - s1zeist@gmail.com
 2. skype - s1zeist
